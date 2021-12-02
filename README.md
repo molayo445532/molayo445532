@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @molayo445532
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning computer engineering
+- 🌱 I’m currently pursuing a computer engineering degree
 - 💞️ I’m looking to collaborate on projects
 - 📫 You can reach me @ molayofaseru@gmail.com
 
